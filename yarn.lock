@@ -92,14 +92,7 @@
   resolved "https://registry.npmjs.org/@types/mime/-/mime-1.3.5.tgz"
   integrity sha512-/pyBZWSLD2n0dcHE3hq8s8ZvcETHtEuF+3E7XVt0Ig2nvsVQXdghHVcEkIWjy9A0wKfTn97a/PSDYohKIlnP/w==
 
-"@types/node@*":
-  version "22.10.5"
-  resolved "https://registry.npmjs.org/@types/node/-/node-22.10.5.tgz"
-  integrity sha512-F8Q+SeGimwOo86fiovQh8qiXfFEh2/ocYv7tU5pJ3EXMSSxk1Joj5wefpFK2fHTf/N6HKGSxIDBT9f3gCxXPkQ==
-  dependencies:
-    undici-types "~6.20.0"
-
-"@types/node@^22.10.5":
+"@types/node@*", "@types/node@^22.10.5":
   version "22.10.5"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-22.10.5.tgz#95af89a3fb74a2bb41ef9927f206e6472026e48b"
   integrity sha512-F8Q+SeGimwOo86fiovQh8qiXfFEh2/ocYv7tU5pJ3EXMSSxk1Joj5wefpFK2fHTf/N6HKGSxIDBT9f3gCxXPkQ==
@@ -830,7 +823,7 @@ touch@^3.1.0:
 
 ts-node@^10.9.2:
   version "10.9.2"
-  resolved "https://registry.npmjs.org/ts-node/-/ts-node-10.9.2.tgz"
+  resolved "https://registry.yarnpkg.com/ts-node/-/ts-node-10.9.2.tgz#70f021c9e185bccdca820e26dc413805c101c71f"
   integrity sha512-f0FFpIdcHgn8zcPSbf1dRevwt047YMnaiJM3u2w2RewrB+fob/zePZcrOyQoLMMO7aBIddLcQIEK5dYjkLnGrQ==
   dependencies:
     "@cspotcode/source-map-support" "^0.8.0"
@@ -857,7 +850,7 @@ type-is@~1.6.18:
 
 typescript@^5.7.2:
   version "5.7.2"
-  resolved "https://registry.npmjs.org/typescript/-/typescript-5.7.2.tgz"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-5.7.2.tgz#3169cf8c4c8a828cde53ba9ecb3d2b1d5dd67be6"
   integrity sha512-i5t66RHxDvVN40HfDd1PsEThGNnlMCMT3jMUuoh9/0TaqWevNontacunWyN02LA9/fIbEWlcHZcgTKb9QoaLfg==
 
 undefsafe@^2.0.5:
